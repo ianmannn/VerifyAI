@@ -19,7 +19,7 @@ export async function POST(req: Request) {
     device: 'desktop',
     format: 'png',
     cacheLimit: '0',
-    delay: '500', 
+    delay: '2000', 
     zoom: '100',
   };
 
